@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**cropland-bv/cropland-bv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CROPLAND is an A.I. service provider on a mission: we ensure you generate higher efficiency and discover actionable insights with the help of machine learning and A.I.
 
-Here are some ideas to get you started:
+At CROPLAND, we datafy your organisation, develop A.I. algorithms and build your data platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We add value with #A.I. for our customers in 2 domains:
+
+✨ We identify, measure & develop insights to maximise your commercial sales & marketing impact.
+
+✨ We pinpoint, assess & control the financial risks & threats to protect your assets & earnings
+
+We work for medium to large local & international companies, primarily active in the B2B environment, that are passionate about optimizing their operations with data analytics and machine learning. For use cases, please have a look at www.cropland.be/cases.
+
+🌱 Innovation (or R & D) is fundamental to our company; we have partially developed and productized our offering by installing an innovation culture. As a result, we provide 3 products: CANDA.ai, UNITE-data and TRGT-data
+
+
